@@ -1,1 +1,2 @@
-这是一个文件
+[new branch]      branch -> branch
+这是一个文件,这是一个新增的内容
